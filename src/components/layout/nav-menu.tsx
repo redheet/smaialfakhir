@@ -2,12 +2,12 @@ import { Fragment } from 'react';
 
 import {
   Bars3Icon,
-  BookmarkSquareIcon,
-  BriefcaseIcon,
-  BuildingOfficeIcon,
+  // BookmarkSquareIcon,
+  // BriefcaseIcon,
+  // BuildingOfficeIcon,
   ChartBarIcon,
   CheckCircleIcon,
-  ComputerDesktopIcon,
+  // ComputerDesktopIcon,
   CursorArrowRaysIcon,
   GlobeAltIcon,
   InformationCircleIcon,
@@ -17,7 +17,7 @@ import {
   ShieldCheckIcon,
   AcademicCapIcon,
   Squares2X2Icon,
-  UserGroupIcon,
+  // UserGroupIcon,
   XMarkIcon,
   PuzzlePieceIcon
 } from '@heroicons/react/24/outline';
