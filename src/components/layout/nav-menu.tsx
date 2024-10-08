@@ -72,20 +72,20 @@ const program2 = [
   { name: 'Business Planning & Entrepreneur Program', href: '/beasiswa', icon: AcademicCapIcon },
   { name: 'Inspirational & Motivational Class', href: '/beasiswa', icon: AcademicCapIcon },
 ];
-const fasilitas = [
-  { name: 'Ruang Belajar / Ruang Kelas', href: '#', icon: InformationCircleIcon },
-  { name: 'Laboratorium Sains', href: '#', icon: BuildingOfficeIcon },
-  { name: 'Laboratorium Komputer', href: '#', icon: NewspaperIcon },
-  { name: 'Sarana Olahraga', href: '#', icon: BriefcaseIcon },
-  { name: 'Musholla', href: '#', icon: ShieldCheckIcon }
-];
-const fasilitas2 = [
-  { name: 'Kolam Renang', href: '#', icon: ShieldCheckIcon },
-  { name: 'Auditorium', href: '#', icon: UserGroupIcon },
-  { name: 'Perpustakaan', href: '#', icon: GlobeAltIcon },
-  { name: 'Kantin/Mini Market', href: '#', icon: BookmarkSquareIcon },
-  { name: 'Ruang Multimedia', href: '#', icon: ComputerDesktopIcon }
-];
+// const fasilitas = [
+//   { name: 'Ruang Belajar / Ruang Kelas', href: '#', icon: InformationCircleIcon },
+//   { name: 'Laboratorium Sains', href: '#', icon: BuildingOfficeIcon },
+//   { name: 'Laboratorium Komputer', href: '#', icon: NewspaperIcon },
+//   { name: 'Sarana Olahraga', href: '#', icon: BriefcaseIcon },
+//   { name: 'Musholla', href: '#', icon: ShieldCheckIcon }
+// ];
+// const fasilitas2 = [
+//   { name: 'Kolam Renang', href: '#', icon: ShieldCheckIcon },
+//   { name: 'Auditorium', href: '#', icon: UserGroupIcon },
+//   { name: 'Perpustakaan', href: '#', icon: GlobeAltIcon },
+//   { name: 'Kantin/Mini Market', href: '#', icon: BookmarkSquareIcon },
+//   { name: 'Ruang Multimedia', href: '#', icon: ComputerDesktopIcon }
+// ];
 // const resources = [
 //   { name: 'Community', href: '#', icon: UserGroupIcon },
 //   { name: 'Partners', href: '#', icon: GlobeAltIcon },
